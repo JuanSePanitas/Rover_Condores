@@ -1,0 +1,1 @@
+Chichos por favor subir sus códigos a este repositorio para el Rover de condores, subir conexiones y código, de tal manera que el día del ensamble sea más fácil compilar el código.
